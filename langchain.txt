@@ -1,0 +1,5 @@
+1. Prompt Templates:
+
+prompt Templates are help to transalate user inputes  and parameters into instruction for a 
+language model. this can be used to guild a models response , helping it understand the context and generate relevant and 
+coherent language based output
